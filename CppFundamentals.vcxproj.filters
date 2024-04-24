@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BasicVariablesAndDataTypes.cpp">
+    <ClCompile Include="Constants.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
