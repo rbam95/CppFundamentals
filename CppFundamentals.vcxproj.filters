@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Arithmetic.cpp">
+    <ClCompile Include="Inheritence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
