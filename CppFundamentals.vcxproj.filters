@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TypeDefsAndTypeAliases.cpp">
+    <ClCompile Include="Arithmetic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
